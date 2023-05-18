@@ -1,0 +1,8 @@
+¿Qué es un objeto JSON?
+
+Un formato de serialización e intercambio de datos.
+
+Javascript Object Notation
+
+Un objeto JSON es un conjunto de pares clave/valor. Un objeto JSON comienza con
+{y termina con }. Cada par clave/valor está separado por una coma.
