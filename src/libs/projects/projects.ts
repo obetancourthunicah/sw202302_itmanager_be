@@ -1,4 +1,4 @@
-import { ProjectDao } from '@dao/models/ProjectsDao';
+import { ProjectDao } from '@dao/models/mongo/ProjectsDao';
 export interface IProject {
   _id?: string;
   name: string;
